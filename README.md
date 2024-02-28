@@ -9,6 +9,7 @@ in main.py are two separate control loops that each control a motor set to a Kp 
 
 The Kp of 6 was found from testing the flywheel motor at different Kp's. Tests from Kp = 24 to 4 are shown below. A low Kp of
 4 was what we deided to be "bad performance."
+
 ![fig1 - Kp from 24 to 4](https://github.com/jacoblantin/LAB4/assets/145752175/52707a67-309d-44fd-b8da-c2135fa4b9c1)
 
 The Kp chosen of 6 is shown compared to the "nice" 24 in the graph shown below.
